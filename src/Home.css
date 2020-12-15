@@ -1,0 +1,16 @@
+.home-main-title {
+  text-align: center;
+  color: rebeccapurple;
+  text-decoration: underline;
+}
+.loading-parent {
+  display: flex;
+  justify-content: center;
+}
+.about-button {
+  background-color: rebeccapurple;
+  color: white;
+  border: none;
+  padding: 15px;
+  border-radius: 5px;
+}

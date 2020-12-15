@@ -1,0 +1,16 @@
+.about-main-title {
+  text-align: center;
+  color: rebeccapurple;
+  text-decoration: underline;
+}
+.button-parent {
+  display: flex;
+  justify-content: center;
+}
+.go-button {
+  background-color: rebeccapurple;
+  color: white;
+  border: none;
+  padding: 15px;
+  border-radius: 5px;
+}
